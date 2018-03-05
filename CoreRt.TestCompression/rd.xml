@@ -1,0 +1,5 @@
+﻿<Directives>
+    <Application>
+        <Assembly Name="CoreRt.TestCompresssion" Dynamic="Required All" />
+  </Application>
+</Directives>
